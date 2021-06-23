@@ -1,0 +1,12 @@
+{
+   "locales": [
+      "en",
+      "gr"
+   ],
+   "defaultLocale": "gr",
+   "pages": {
+      "*": [
+         "home"
+      ]
+   }
+}
